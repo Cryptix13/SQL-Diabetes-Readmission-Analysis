@@ -1,2 +1,10 @@
 # SQL-Diabetes-Readmission-Analysis
-Explored patterns in hospital readmission rates for diabetic patients using MySQL to uncover top diagnoses, stay length trends, age and race distributions, and readmission insights.
+Analyzed hospital readmissions for diabetic patients using MySQL. Built a database and ran queries to uncover trends in:
+
+Top diagnoses
+
+Average length of stay
+
+Age and race distributions
+
+Readmission rates
